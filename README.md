@@ -37,5 +37,6 @@ Assignments and Final Project in **SNU ECE Machine Learning Fundamentals & Appli
 
 * **Recognizing letter images**
 * **Predicting next letter** of a letter sequence
+* Combining **VGG** and **LSTM** method
 * **98.89%** accuracy on the easy dataset
 * **96.15%** accuracy on the normal dataset
