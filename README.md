@@ -1,4 +1,4 @@
-# SNUML-2022-1
+# Machine Learning 2022-1
 
 Assignments and Final Project in **SNU ECE Machine Learning Fundamentals & Applications (M2608.001300)** lecture, at 2022 spring.
 
